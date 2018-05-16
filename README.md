@@ -1,5 +1,5 @@
-# Tampan
+# ifbox
 
-## 大規模チャットツール
+## in-game chat tool by nginx lua.
 
 
